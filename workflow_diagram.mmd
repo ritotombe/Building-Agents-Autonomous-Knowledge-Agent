@@ -1,0 +1,25 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	prepare(prepare)
+	classify(classify)
+	resolve(resolve)
+	ops(ops)
+	escalate(escalate)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> prepare;
+	classify -. &nbsp;to_escalate&nbsp; .-> escalate;
+	classify -. &nbsp;to_ops&nbsp; .-> ops;
+	classify -. &nbsp;to_resolve&nbsp; .-> resolve;
+	prepare --> classify;
+	resolve -. &nbsp;end&nbsp; .-> __end__;
+	resolve -.-> escalate;
+	escalate --> __end__;
+	ops --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

@@ -1,0 +1,259 @@
+2025-10-06 15:43:41,907 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:43:41,907 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:43:41,908 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:43:41,908 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:43:41,908 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:43:41,908 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:43:41,913 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:43:41,918 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:43:41,918 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:43:41,918 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:43:41,918 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:43:41,919 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:43:41,919 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:43:41,923 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:43:41,927 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:43:41,927 - agentic.workflow - INFO - PREPARE: Extracted input: 'asdfasdf', ticket_id: unknown
+2025-10-06 15:43:41,928 - agentic.workflow - INFO - CLASSIFY: Processing input: 'asdfasdf'
+2025-10-06 15:43:41,928 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:43:41,928 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:43:41,928 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:43:41,933 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:43:41,947 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:43:41,948 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:43:41,948 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:43:41,948 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:43:41,948 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:43:41,948 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:43:41,953 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:43:41,959 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:43:41,959 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:43:41,960 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:43:41,960 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:43:41,960 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:43:41,960 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:43:41,966 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:44:29,336 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:44:29,336 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:44:29,336 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:44:29,337 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:44:29,337 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:44:29,337 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:44:29,342 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:44:29,349 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:44:29,349 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:44:29,349 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:44:29,349 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:44:29,349 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:44:29,349 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:44:29,354 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:44:29,359 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:44:29,359 - agentic.workflow - INFO - PREPARE: Extracted input: 'asdfasdf', ticket_id: unknown
+2025-10-06 15:44:29,359 - agentic.workflow - INFO - CLASSIFY: Processing input: 'asdfasdf'
+2025-10-06 15:44:29,359 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:44:29,359 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:44:29,360 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:44:29,366 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:44:29,382 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:44:29,382 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:44:29,383 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:44:29,383 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:44:29,383 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:44:29,383 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:44:29,390 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:44:29,397 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:44:29,397 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:44:29,398 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:44:29,398 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:44:29,398 - agentic.workflow - INFO - ROUTE: Intent 'unknown' -> ESCALATE
+2025-10-06 15:44:29,398 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:44:29,403 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:46:40,427 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:41,183 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:42,270 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:42,816 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:43,481 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:45,215 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:46,343 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:47,713 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:48,401 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:49,501 - httpx - INFO - HTTP Request: POST https://openai.vocareum.com/v1/api/escalations "HTTP/1.1 400 Bad Request"
+2025-10-06 15:46:49,514 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:46:49,514 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:46:49,515 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:46:50,292 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:50,294 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'reservation'
+2025-10-06 15:46:50,294 - agentic.workflow - INFO - ROUTE: Intent 'reservation' -> OPS
+2025-10-06 15:46:50,295 - agentic.workflow - INFO - OPS: Processing intent 'reservation' for user a4ab87
+2025-10-06 15:46:51,118 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:51,123 - agentic.workflow - ERROR - OPS: Failed - {'code': 'BLOCKED', 'message': 'User is blocked'}
+2025-10-06 15:46:51,129 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:46:51,129 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:46:51,130 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:46:51,721 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:51,726 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'subscription'
+2025-10-06 15:46:51,726 - agentic.workflow - INFO - ROUTE: Intent 'subscription' -> OPS
+2025-10-06 15:46:51,727 - agentic.workflow - INFO - OPS: Processing intent 'subscription' for user a4ab87
+2025-10-06 15:46:52,777 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:52,786 - agentic.workflow - INFO - OPS: Success - unknown tool
+2025-10-06 15:46:52,792 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:46:52,792 - agentic.workflow - INFO - PREPARE: Extracted input: 'asdfasdf', ticket_id: unknown
+2025-10-06 15:46:52,792 - agentic.workflow - INFO - CLASSIFY: Processing input: 'asdfasdf'
+2025-10-06 15:46:53,315 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:53,319 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'knowledge'
+2025-10-06 15:46:53,319 - agentic.workflow - INFO - ROUTE: Intent 'knowledge' -> RESOLVE
+2025-10-06 15:46:53,319 - agentic.workflow - INFO - RESOLVE: Querying KB for: 'asdfasdf'
+2025-10-06 15:46:54,060 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:54,061 - agentic.workflow - WARNING - RESOLVE: Failed - low_confidence
+2025-10-06 15:46:54,062 - agentic.workflow - INFO - ESCALATE_CHECK: Resolver failed -> ESCALATE
+2025-10-06 15:46:54,063 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: knowledge
+2025-10-06 15:46:55,007 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:55,472 - httpx - INFO - HTTP Request: POST https://openai.vocareum.com/v1/api/escalations "HTTP/1.1 400 Bad Request"
+2025-10-06 15:46:55,472 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:46:55,486 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:46:55,486 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:46:55,486 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:46:56,038 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:56,038 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'reservation'
+2025-10-06 15:46:56,039 - agentic.workflow - INFO - ROUTE: Intent 'reservation' -> OPS
+2025-10-06 15:46:56,039 - agentic.workflow - INFO - OPS: Processing intent 'reservation' for user a4ab87
+2025-10-06 15:46:57,398 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:57,403 - agentic.workflow - ERROR - OPS: Failed - {'code': 'BLOCKED', 'message': 'User is blocked'}
+2025-10-06 15:46:57,409 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:46:57,409 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:46:57,409 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:46:58,118 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:58,127 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'subscription'
+2025-10-06 15:46:58,127 - agentic.workflow - INFO - ROUTE: Intent 'subscription' -> OPS
+2025-10-06 15:46:58,128 - agentic.workflow - INFO - OPS: Processing intent 'subscription' for user a4ab87
+2025-10-06 15:46:58,996 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:46:59,003 - agentic.workflow - INFO - OPS: Success - unknown tool
+2025-10-06 15:50:42,032 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:42,642 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:43,199 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:43,754 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:44,268 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:44,866 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:45,973 - httpx - INFO - HTTP Request: POST https://openai.vocareum.com/v1/api/escalations "HTTP/1.1 400 Bad Request"
+2025-10-06 15:50:46,827 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:47,909 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:48,494 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:48,510 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:50:48,510 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:50:48,510 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:50:49,039 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:49,041 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'reservation'
+2025-10-06 15:50:49,042 - agentic.workflow - INFO - ROUTE: Intent 'reservation' -> OPS
+2025-10-06 15:50:49,042 - agentic.workflow - INFO - OPS: Processing intent 'reservation' for user a4ab87
+2025-10-06 15:50:50,213 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:50,220 - agentic.workflow - ERROR - OPS: Failed - {'code': 'BLOCKED', 'message': 'User is blocked'}
+2025-10-06 15:50:50,225 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:50:50,226 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:50:50,226 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:50:50,729 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:50,732 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'subscription'
+2025-10-06 15:50:50,732 - agentic.workflow - INFO - ROUTE: Intent 'subscription' -> OPS
+2025-10-06 15:50:50,733 - agentic.workflow - INFO - OPS: Processing intent 'subscription' for user a4ab87
+2025-10-06 15:50:51,489 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:51,496 - agentic.workflow - INFO - OPS: Success - unknown tool
+2025-10-06 15:50:51,503 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:50:51,503 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:50:51,503 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:50:51,965 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:51,974 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'reservation'
+2025-10-06 15:50:51,975 - agentic.workflow - INFO - ROUTE: Intent 'reservation' -> OPS
+2025-10-06 15:50:51,975 - agentic.workflow - INFO - OPS: Processing intent 'reservation' for user a4ab87
+2025-10-06 15:50:53,222 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:53,228 - agentic.workflow - ERROR - OPS: Failed - {'code': 'BLOCKED', 'message': 'User is blocked'}
+2025-10-06 15:50:53,234 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:50:53,234 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:50:53,234 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:50:53,823 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:53,826 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'subscription'
+2025-10-06 15:50:53,826 - agentic.workflow - INFO - ROUTE: Intent 'subscription' -> OPS
+2025-10-06 15:50:53,827 - agentic.workflow - INFO - OPS: Processing intent 'subscription' for user a4ab87
+2025-10-06 15:50:54,799 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:54,806 - agentic.workflow - INFO - OPS: Success - unknown tool
+2025-10-06 15:50:54,812 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:50:54,812 - agentic.workflow - INFO - PREPARE: Extracted input: 'asdfasdf', ticket_id: unknown
+2025-10-06 15:50:54,812 - agentic.workflow - INFO - CLASSIFY: Processing input: 'asdfasdf'
+2025-10-06 15:50:55,376 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:55,377 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'knowledge'
+2025-10-06 15:50:55,377 - agentic.workflow - INFO - ROUTE: Intent 'knowledge' -> RESOLVE
+2025-10-06 15:50:55,378 - agentic.workflow - INFO - RESOLVE: Querying KB for: 'asdfasdf'
+2025-10-06 15:50:55,972 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:55,976 - agentic.workflow - WARNING - RESOLVE: Failed - low_confidence
+2025-10-06 15:50:55,977 - agentic.workflow - INFO - ESCALATE_CHECK: Resolver failed -> ESCALATE
+2025-10-06 15:50:55,977 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: knowledge
+2025-10-06 15:50:56,462 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:50:56,913 - httpx - INFO - HTTP Request: POST https://openai.vocareum.com/v1/api/escalations "HTTP/1.1 400 Bad Request"
+2025-10-06 15:50:56,913 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:57:57,577 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:57:57,577 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:57:57,577 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:57:57,577 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'unknown'
+2025-10-06 15:57:57,578 - agentic.workflow - INFO - LANGCHAIN_ROUTE: Intent 'unknown' -> escalate
+2025-10-06 15:57:57,578 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: unknown
+2025-10-06 15:57:57,604 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:58:24,155 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:24,750 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:25,833 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:26,421 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:26,911 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:27,888 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:28,468 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:29,360 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:30,537 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:31,611 - httpx - INFO - HTTP Request: POST https://openai.vocareum.com/v1/api/escalations "HTTP/1.1 400 Bad Request"
+2025-10-06 15:58:31,625 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:58:31,625 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:58:31,626 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:58:32,129 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:32,130 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'reservation'
+2025-10-06 15:58:32,703 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:32,704 - agentic.workflow - INFO - LANGCHAIN_LLM_ROUTE: Intent 'reservation' -> ops
+2025-10-06 15:58:32,705 - agentic.workflow - INFO - OPS: Processing intent 'reservation' for user a4ab87
+2025-10-06 15:58:33,659 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:33,666 - agentic.workflow - ERROR - OPS: Failed - {'code': 'BLOCKED', 'message': 'User is blocked'}
+2025-10-06 15:58:33,673 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:58:33,673 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:58:33,673 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:58:34,136 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:34,136 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'subscription'
+2025-10-06 15:58:34,689 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:34,697 - agentic.workflow - INFO - LANGCHAIN_LLM_ROUTE: Intent 'subscription' -> ops
+2025-10-06 15:58:34,697 - agentic.workflow - INFO - OPS: Processing intent 'subscription' for user a4ab87
+2025-10-06 15:58:35,546 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:35,557 - agentic.workflow - INFO - OPS: Success - unknown tool
+2025-10-06 15:58:35,564 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:58:35,564 - agentic.workflow - INFO - PREPARE: Extracted input: 'asdfasdf', ticket_id: unknown
+2025-10-06 15:58:35,564 - agentic.workflow - INFO - CLASSIFY: Processing input: 'asdfasdf'
+2025-10-06 15:58:36,183 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:36,183 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'knowledge'
+2025-10-06 15:58:36,701 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:36,703 - agentic.workflow - INFO - LANGCHAIN_LLM_ROUTE: Intent 'knowledge' -> escalate
+2025-10-06 15:58:36,704 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: knowledge
+2025-10-06 15:58:37,385 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:39,774 - httpx - INFO - HTTP Request: POST https://openai.vocareum.com/v1/api/escalations "HTTP/1.1 400 Bad Request"
+2025-10-06 15:58:39,775 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
+2025-10-06 15:58:39,787 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:58:39,787 - agentic.workflow - INFO - PREPARE: Extracted input: 'how to reserve', ticket_id: unknown
+2025-10-06 15:58:39,788 - agentic.workflow - INFO - CLASSIFY: Processing input: 'how to reserve'
+2025-10-06 15:58:40,321 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:40,327 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'reservation'
+2025-10-06 15:58:40,920 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:40,932 - agentic.workflow - INFO - LANGCHAIN_LLM_ROUTE: Intent 'reservation' -> ops
+2025-10-06 15:58:40,933 - agentic.workflow - INFO - OPS: Processing intent 'reservation' for user a4ab87
+2025-10-06 15:58:41,750 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:41,762 - agentic.workflow - ERROR - OPS: Failed - {'code': 'BLOCKED', 'message': 'User is blocked'}
+2025-10-06 15:58:41,769 - agentic.workflow - INFO - PREPARE: Starting with state keys: ['messages']
+2025-10-06 15:58:41,769 - agentic.workflow - INFO - PREPARE: Extracted input: 'subscription', ticket_id: unknown
+2025-10-06 15:58:41,769 - agentic.workflow - INFO - CLASSIFY: Processing input: 'subscription'
+2025-10-06 15:58:42,321 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:42,322 - agentic.workflow - INFO - CLASSIFY: Classified intent: 'subscription'
+2025-10-06 15:58:42,868 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:42,869 - agentic.workflow - INFO - LANGCHAIN_LLM_ROUTE: Intent 'subscription' -> escalate
+2025-10-06 15:58:42,869 - agentic.workflow - INFO - ESCALATE: Escalating ticket unknown due to intent: subscription
+2025-10-06 15:58:43,548 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-06 15:58:43,934 - httpx - INFO - HTTP Request: POST https://openai.vocareum.com/v1/api/escalations "HTTP/1.1 400 Bad Request"
+2025-10-06 15:58:43,934 - agentic.workflow - INFO - ESCALATE: Escalation completed - UDA-Hub: False, Vocareum: False
